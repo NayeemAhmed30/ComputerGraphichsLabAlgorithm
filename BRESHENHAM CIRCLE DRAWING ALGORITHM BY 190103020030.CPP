@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
 int x,y,r;
-int main(){
+int main()
+{
 
 
-    cout<<"Enter the value of x and y: \n";
+	cout<<"Enter the value of x and y: \n";
 	cin>>x>>y;
 	cout<<"Enter the value of radius: ";
 	cin>>r;

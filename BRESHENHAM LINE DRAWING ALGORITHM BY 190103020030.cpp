@@ -9,9 +9,9 @@ int main()
     float x1,x2 ,y1,y2,del_x,del_y,d0,d,i=0,y;
 
     cout<<"Enter the value of x1 and y1: ";
-	cin>>x1>>y1;
-	cout<<"Enter the value of x2 and y2: ";
-	cin>>x2>>y2;
+    cin>>x1>>y1;
+    cout<<"Enter the value of x2 and y2: ";
+    cin>>x2>>y2;
 
     del_x = x2-x1;
     del_y = y2-y1;

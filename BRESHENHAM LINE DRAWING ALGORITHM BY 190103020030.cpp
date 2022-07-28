@@ -29,7 +29,8 @@ int main()
                 y++;
             }
             cout<<"i:"<<i<<" d"<<i<<":"<<d<<"   x: "<<j<<", y: "<< y<<"\n";
-        }else{
+        }
+     else{
             d = d + 2*dy;
             if(d>0){
                 y++;

@@ -15,7 +15,7 @@ int main()
 
     dx = x2-x1;
     dy = y2-y1;
-    d0    = 2*dy - dx;
+    d0 = 2*dy - dx;
     cout<<"dx:"<<dx<<"\n";
     cout<<"dy:"<<dy<<"\n";
     d = d0;

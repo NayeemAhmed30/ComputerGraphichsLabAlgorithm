@@ -8,9 +8,9 @@ int main()
     int p;
 
     cout<<"Enter the value of x: ";
-	cin>>x;
-	cout<<"Enter the value of y: ";
-	cin>>y;
+    cin>>x;
+    cout<<"Enter the value of y: ";
+    cin>>y;
     cout<<"Enter radius: ";
     cin>>r;
     p=1-r;
